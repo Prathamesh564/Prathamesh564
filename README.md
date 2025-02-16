@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React,TailwindCSS,Nextjs.
 
-- 💬 Ask me about DSA,WEB DEV.
+- 💬 Ask me about DSA(C++),WEB DEV.
 
 - 📫 How to reach me **prathameshshingade5@gmail.com**
 
