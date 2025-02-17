@@ -1,6 +1,6 @@
 ![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Prathamesh</h1>
-<h3 align="center">🚀 MERN Stack Developer | Exploring the World of AI/ML 🤖</h3>
+<h3 align="center">🚀 MERN Stack Developer | Exploring the World of AI/ML. 🤖</h3>
 
 - 🌱 I’m currently learning React,TailwindCSS,Nextjs.
 
